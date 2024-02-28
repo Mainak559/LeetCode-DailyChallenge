@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/LeetCode-DailyChallenge/LeetCode-DailyChallenge/2024/2.Feb",
-      "program": "d:/LeetCode-DailyChallenge/LeetCode-DailyChallenge/2024/2.Feb/build/Debug/outDebug",
+      "cwd": "d:/LeetCode-DailyChallenge/LeetCode-DailyChallenge",
+      "program": "d:/LeetCode-DailyChallenge/LeetCode-DailyChallenge/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
